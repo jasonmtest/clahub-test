@@ -1,4 +1,4 @@
 clahub-test
 ===========
 
-clahub-test is awesome!
+clahub-test is really awesome!
