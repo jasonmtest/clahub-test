@@ -1,0 +1,7 @@
+language: ruby
+script: 'exit 0'
+rvm:
+  - 2.1.1
+env:
+notifications:
+  email: false
